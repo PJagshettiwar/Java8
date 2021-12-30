@@ -5,7 +5,7 @@ import java.util.*;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 
-public class StreamBasics {
+public class StreamBasicsDiplav {
 
     private List<Integer> output;
     private Optional<Character> ans;
